@@ -14,4 +14,5 @@ The project's final visual shows areas in the Phoenix subdivision with a signifi
 
 ## Data
 “Microsoft Planetary Computer.” Planetary Computer. Accessed December 12, 2023. https://planetarycomputer.microsoft.com/. 
+
 “2022 Tiger/Line® Shapefiles: County+subdivisions.” United States Census Bureau. Accessed December 12, 2023. https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2022&amp;layergroup=County%2BSubdivisions. 
