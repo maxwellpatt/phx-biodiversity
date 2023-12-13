@@ -1,4 +1,4 @@
-# Phoenix Biodiversity Intactness Index Change
+# Phoenix Biodiversity Intactness Index From 2017 to 2020
 
 ## About
 This repository contains a notebook investigating the Biodiversity Intactness Index (BII) in the Phoenix area. The aim of this repository is to understand the changes in biodiversity levels from 2017 to 2020, focusing on areas with significant ecological shifts.
